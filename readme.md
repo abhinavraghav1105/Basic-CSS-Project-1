@@ -1,4 +1,5 @@
-# Front-End Development Project
+# Basic CSS Project 1
+
 ![website image](view.png)
 
 This project involves the development of a responsive and user-friendly front-end interface using HTML, CSS, and JavaScript. The design includes dynamic content rendering and cross-browser compatibility, ensuring a seamless user experience.
